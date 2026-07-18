@@ -1,0 +1,1 @@
+var json_Pasar_7 = {"type":"FeatureCollection","name":"Pasar_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Keterangan":"Pasar","Gambar":"D:\\Documents\\ArcGIS\\JOKI\\SHP\\JOKI PETA KKN 5\\SHP\\12.jpg"},"geometry":{"type":"Point","coordinates":[114.264216434084872,-8.549569615371233]}}]}

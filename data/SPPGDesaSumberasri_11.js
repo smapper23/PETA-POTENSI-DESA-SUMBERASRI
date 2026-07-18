@@ -1,0 +1,1 @@
+var json_SPPGDesaSumberasri_11 = {"type":"FeatureCollection","name":"SPPGDesaSumberasri_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Gambar":"D:\\Documents\\ArcGIS\\JOKI\\SHP\\JOKI PETA KKN 5\\SHP\\8.jpg"},"geometry":{"type":"Point","coordinates":[114.259548288510814,-8.549221262279985]}}]}

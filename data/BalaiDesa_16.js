@@ -1,0 +1,1 @@
+var json_BalaiDesa_16 = {"type":"FeatureCollection","name":"BalaiDesa_16","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Keterangan":"Balai Desa","Gambar":"D:\\Documents\\ArcGIS\\JOKI\\SHP\\JOKI PETA KKN 5\\SHP\\3.jpg"},"geometry":{"type":"Point","coordinates":[114.262828375507439,-8.549252718754772]}}]}

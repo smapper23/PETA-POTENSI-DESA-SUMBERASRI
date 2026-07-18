@@ -1,0 +1,1 @@
+var json_Puskesdes_8 = {"type":"FeatureCollection","name":"Puskesdes_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Keterangan":"Puskesdes","Gambar":"D:\\Documents\\ArcGIS\\JOKI\\SHP\\JOKI PETA KKN 5\\SHP\\11.jpg"},"geometry":{"type":"Point","coordinates":[114.263078218912653,-8.549463610383427]}}]}

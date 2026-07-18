@@ -1,0 +1,1 @@
+var json_Lapangan_15 = {"type":"FeatureCollection","name":"Lapangan_15","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Keterangan":"Lapangan","Gambar":"D:\\Documents\\ArcGIS\\JOKI\\SHP\\JOKI PETA KKN 5\\SHP\\4.jpg"},"geometry":{"type":"Point","coordinates":[114.261871832183175,-8.549095674328392]}}]}
